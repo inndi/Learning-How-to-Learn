@@ -46,7 +46,7 @@
 
 .header__link {
   text-decoration: none;
-  color:  #2F80ED ;
+  color:  #2F80ED;
 }
 
 .header__main-illustration {
@@ -200,7 +200,7 @@
 }
 
 .feynman__link {
-  color:  #2F80ED ;
+  color:  #2F80ED;
   position: absolute;
   top: 50%;
   right: 48px;
@@ -217,7 +217,7 @@
   position: relative;
   background-color: #1F1F1F;
   padding: 90px 0;
-  overflow: hidden; 
+  overflow: hidden;
   z-index: 1;
 }
 
