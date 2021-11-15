@@ -21,4 +21,4 @@ ___
 
 ___
 ## Plans
- * [ ] Add link to *the Feynman block* using this [link](https://fs.blog/feynman-technique/)  
+ * Add link to *the Feynman block* using this [link](https://fs.blog/feynman-technique/)  
