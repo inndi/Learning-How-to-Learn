@@ -63,21 +63,3 @@
 @import url('../blocks/footer/__list/footer__list.css');
 @import url('../blocks/footer/__clumn-link/footer__column-link.css');
 @import url('../blocks/footer/__social-icons/footer__social-icons.css');
-
-@keyframes rotation {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
-@keyframes smooth-hover {
-  0% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0.5;
-  }
-}
