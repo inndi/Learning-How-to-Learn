@@ -4,9 +4,9 @@
 @import url('../blocks/header/__title/header__title.css');
 @import url('../blocks/header/__subtitle/header__subtitle.css');
 @import url('../blocks/header/__link/header__link.css');
-@import url('../blocks/smooth-hover/smooth-hover.css');
 @import url('../blocks/header/__main-illustration/header__main-illustration.css');
 @import url('../blocks/header/__square-pic/header__square-pic.css');
+@import url('../blocks/smooth-hover/smooth-hover.css');
 @import url('../blocks/logo/_place/logo_place_header.css');
 @import url('../blocks/logo/_place/logo_place_footer.css');
 @import url('../blocks/rotation/rotation.css');
@@ -62,5 +62,5 @@
 @import url('../blocks/footer/__author/footer__author.css');
 @import url('../blocks/footer/__column-heading/footer__column-heading.css');
 @import url('../blocks/footer/__list/footer__list.css');
-@import url('../blocks/footer/__clumn-link/footer__column-link.css');
+@import url('../blocks/footer/__column-link/footer__column-link.css');
 @import url('../blocks/footer/__social-icons/footer__social-icons.css');

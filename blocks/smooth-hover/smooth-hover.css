@@ -1,12 +1,4 @@
-@keyframes smooth-hover {
-  0% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0.5;
-  }
-}
-
 .smooth-hover:hover {
-  animation: smooth-hover 1s linear forwards;
+  opacity: 0.5;
+  transition: opacity 1s linear;
 }
