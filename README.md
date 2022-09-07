@@ -11,7 +11,10 @@
 
 * HTML
 * CSS
+___
+## Add demo
 
+* [Learning How to Learn link](https://inndi.github.io/web_project_1/)
 ___
 ## Running this project locally
 ### *From the repo:*
