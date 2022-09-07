@@ -12,7 +12,7 @@
 * HTML
 * CSS
 ___
-## Add demo
+## Demo
 
 * [Learning How to Learn link](https://inndi.github.io/web_project_1/)
 ___
